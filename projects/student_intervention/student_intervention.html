@@ -12158,15 +12158,6 @@ Testing set has 95 samples.
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><strong>Answer: </strong></p>
-<p>I found that there is a guide in sklearn on choosing estimators:<br>
-<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="9000px">
-We have:</p>
-<ul>
-<li>395 samples</li>
-<li>classification problem with labeled data</li>
-<li>no text data</li>
-</ul>
-<p>So I choose the following three models.</p>
 <ol>
 <li><p><strong>AdaBoost</strong></p>
 <ul>
@@ -12181,9 +12172,11 @@ reference: <a href="http://www.uni-obuda.hu/journal/Markoski_Ivankovic_Ratgeber_
 <li>Weaknesses:  <ol>
 <li>Algorithm seems susceptible to uniform noise  </li>
 <li>Weak learner should not be too complex - to avoid overfitting.  </li>
-<li>There needs to be enough data so that the weak learning requirement is satisfied - the base learner should perform consistently better than random guessing, with generalization error &lt; 0.5 for binary classification problems.  </li>
+<li>There needs to be enough data so that the weak learning requirement is satisfied - the base learner should perform consistently better than random guessing, with generalization error &lt; 0.5 for binary classification problems.</li>
 </ol>
 </li>
+<li>Reason:<br>
+  Features contain both numerical data and categorical data. AdaBoost(Desicion Tree) can work anyway.</li>
 </ul>
 </li>
 <li><p><strong>KNN</strong></p>
@@ -12198,7 +12191,12 @@ reference: <a href="http://www.sciencedirect.com/science/article/pii/S2210832714
 <li>Weaknesses:  <ol>
 <li>Need to determine value of parameter K (number of nearest neighbors) </li>
 <li>Distance based learning is not clear which type of distance  to use and which attribute to use to produce the best results.  </li>
-<li>Computation cost is quite high because we need to compute distance of each query instance to all training samples. </li>
+<li>Computation cost is quite high because we need to compute distance of each query instance to all training samples.  </li>
+</ol>
+</li>
+<li>Reason:  <ol>
+<li>KNN is the first choice for a classification study when there is little or no prior knowledge about the distribution of the data</li>
+<li>Our data set is unbalanced, KNN is stable on unbalanced data.</li>
 </ol>
 </li>
 </ul>
@@ -12215,7 +12213,9 @@ reference: <a href="http://www.svms.org/finance/ShinLeeKim2005.pdf">http://www.s
 </ol>
 </li>
 <li>Weaknesses:<br>
-  Theory only really covers the determination of the parameters for a given value of the regularisation and kernel parameters and choice of kernel. In a way the SVM moves the problem of over-fitting from optimising the parameters to model selection. Sadly kernel models can be quite sensitive to over-fitting the model selection criterion</li>
+  Theory only really covers the determination of the parameters for a given value of the regularisation and kernel parameters and choice of kernel. In a way the SVM moves the problem of over-fitting from optimising the parameters to model selection. Sadly kernel models can be quite sensitive to over-fitting the model selection criterion  </li>
+<li>Reason:<br>
+  There are many features in our data set, but Kernels in SVMs can handle it.</li>
 </ul>
 </li>
 </ol>
