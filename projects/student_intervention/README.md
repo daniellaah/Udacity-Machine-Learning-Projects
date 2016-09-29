@@ -61,3 +61,24 @@ The dataset used in this project is included as `student-data.csv`. This dataset
 - `health` : current health status (numeric: from 1 - very bad to 5 - very good)
 - `absences` : number of school absences (numeric: from 0 to 93)
 - `passed` : did the student pass the final exam (binary: yes or no)
+
+
+Ada boost:
+This is an excellent paper by Rob Schapire, one of the creators of Adaboost from Stanford. You may have a look in your spare time - http://rob.schapire.net/papers/explaining-adaboost.pdf
+
+Another excellent technical one paper is this one - http://math.mit.edu/~rothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf
+
+This one is very nice for intuitive understanding - http://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
+
+KNN:
+A simplified explanation of KNN could be found here - https://www.analyticsvidhya.com/blog/2014/10/introduction-k-neighbours-algorithm-clustering/
+
+This one is a very short description, but nice one - http://www.saedsayad.com/k_nearest_neighbors.htm
+
+Some more KNN slides for you - http://www.csee.umbc.edu/~tinoosh/cmpe650/slides/K_Nearest_Neighbor_Algorithm.pdf
+
+SVM:
+Here is a tutorial on SVM by Jason Weston, a very famous Machine Learning Researcher now working at Facebook - http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf
+
+This last one is just as it’s name implies - An Idiot’s Guide to Support Vector Machines.
+http://svms.org/tutorials/Berwick2003.pdf
