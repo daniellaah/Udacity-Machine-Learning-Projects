@@ -1,6 +1,17 @@
 # Project 2: Supervised Learning
 ## Building a Student Intervention System
 
+### Core Technique
+1. Numpy Basic
+2. Pandas Basic
+4. Sklearn Basic
+3. SVM, more about SVM see thses blogs:
+  - [CS229机器学习笔记(五)-SVM之函数间隔, 几何间隔](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-6.html)
+  - [CS229机器学习笔记(六)-SVM之拉格朗日对偶, 最优间隔分类器](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-7.html)
+  - [CS229机器学习笔记(七)-SVM之Kernels](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-8.html)
+  - [CS229机器学习笔记(七)-SVM之软间隔](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-8-1.html)
+4. Hyper Parameter Tuning with Grid Search
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
