@@ -2,10 +2,12 @@
 ## Predicting Boston Housing Prices
 
 ### Core Technique
-1. Pandas Basic
-2. Matplotlib Basic 
-3. Learning Curve and Overfitting, more see this blog:[Coursera机器学习笔记(十) - 机器学习经验方法总结](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes-Week-6-Advice-for-Applying-Machine-Learning.html) 
-4. Cross-Validatin and Grid Search
+1. Numpy Basic
+2. Pandas Basic
+3. Matplotlib Basic 
+4. Learning Curve and Overfitting, more see this blog: [Coursera机器学习笔记(十) - 机器学习经验方法总结](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes-Week-6-Advice-for-Applying-Machine-Learning.html) 
+5. Training Set and Test Set, more see this blog: [Coursera机器学习笔记(十) - 机器学习经验方法总结](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes-Week-6-Advice-for-Applying-Machine-Learning.html) 
+6. Cross-Validatin and Grid Search
 
 ### Install
 
