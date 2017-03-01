@@ -8,7 +8,7 @@
 4. Learning Curve and Overfitting, more see this blog: [Coursera机器学习笔记(十) - 机器学习经验方法总结](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes-Week-6-Advice-for-Applying-Machine-Learning.html) 
 5. Training Set and Test Set, more see this blog: [Coursera机器学习笔记(十) - 机器学习经验方法总结](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes-Week-6-Advice-for-Applying-Machine-Learning.html) 
 6. Cross-Validatin and Grid Search
-
+7. to see more about Numpy, you can go to this repo:[Numpy, Pandas, Matplotlib学习笔记](https://github.com/daniellaah/python-scientific-computing)
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
