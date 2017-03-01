@@ -13,6 +13,7 @@ You can go through the project by [Jupyter nbviewer](http://nbviewer.jupyter.org
   - [CS229机器学习笔记(七)-SVM之Kernels](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-8.html)
   - [CS229机器学习笔记(七)-SVM之软间隔](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-8-1.html)
 4. Hyper Parameter Tuning with Grid Search
+5. to see more about Numpy, you can go to this repo:[Numpy, Pandas, Matplotlib学习笔记](https://github.com/daniellaah/python-scientific-computing)
 
 ### Install
 
