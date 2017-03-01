@@ -1,6 +1,12 @@
 # Project 1: Model Evaluation & Validation
 ## Predicting Boston Housing Prices
 
+### Core Technique
+1. Pandas Basic
+2. Matplotlib Basic 
+3. Learning Curve and Overfitting, more see this blog:[Coursera机器学习笔记(十) - 机器学习经验方法总结](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes-Week-6-Advice-for-Applying-Machine-Learning.html) 
+4. Cross-Validatin and Grid Search
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
