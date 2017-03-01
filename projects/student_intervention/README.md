@@ -11,7 +11,7 @@ You can go through the project by [Jupyter nbviewer](http://nbviewer.jupyter.org
   - [CS229机器学习笔记(五)-SVM之函数间隔, 几何间隔](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-6.html)
   - [CS229机器学习笔记(六)-SVM之拉格朗日对偶, 最优间隔分类器](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-7.html)
   - [CS229机器学习笔记(七)-SVM之Kernels](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-8.html)
-  - [CS229机器学习笔记(七)-SVM之软间隔](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-8-1.html)
+  - [CS229机器学习笔记(八)-SVM之软间隔](http://daniellaah.github.io/2016/CS229-Machine-Learning-Notes-Lecture-8-1.html)
 4. Hyper Parameter Tuning with Grid Search
 5. to see more about Numpy, you can go to this repo:[Numpy, Pandas, Matplotlib学习笔记](https://github.com/daniellaah/python-scientific-computing)
 
