@@ -2,6 +2,9 @@
 
 - [Project 1: Model Evaluation & Validation](https://github.com/daniellaah/Udacity-Machine-Learning-Projects/tree/master/projects/boston_housing)
 - [Project 2: Supervised Learning](https://github.com/daniellaah/Udacity-Machine-Learning-Projects/tree/master/projects/student_intervention#project-2-supervised-learning)
+- Project 3: Unsupervised Learning
+- Project 4: Reinforcement Learning
+- Project 5: Capstone
 
 
 
