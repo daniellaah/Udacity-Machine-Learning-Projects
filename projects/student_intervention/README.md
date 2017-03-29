@@ -1,7 +1,7 @@
 # Project 2: Supervised Learning
 ## Building a Student Intervention System
 
-You can go through the project by [Jupyter nbviewer](http://nbviewer.jupyter.org/github/daniellaah/Udacity-Machine-Learning-Projects/blob/master/projects/student_intervention/student_intervention.ipynb
+You can go through the project by [Jupyter nbviewer](http://nbviewer.jupyter.org/github/daniellaah/Udacity-Machine-Learning-Projects/blob/master/projects/student_intervention/student_intervention.ipynb)
 
 ### Core Technique
 1. Numpy Basic
